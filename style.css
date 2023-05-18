@@ -67,9 +67,7 @@ body {
   background-color: white;
 }
 
-.card__white .depoimentos__texto-destaque {
-  color: red;
-}
+/* ESTILOS GERAIS */
 
 .card__moderate-violet {
   background-color: var(--moderate-violet);
